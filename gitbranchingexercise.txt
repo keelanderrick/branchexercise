@@ -12,3 +12,5 @@ git branch -D
 
 How do merge conflicts happen?
 when one file has multiple commits and git doesn't know which version of the same file to choose
+
+main
